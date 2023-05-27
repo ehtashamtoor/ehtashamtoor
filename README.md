@@ -6,18 +6,19 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
 https://ehtashamportfolio.netlify.app/
 
 So now if you are reading it lets have a look on my tech stack.
-PROGRAMMING LANGUAGE:
+
+<h2>PROGRAMMING LANGUAGE:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript," />
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" />
   </a>
 </p>
 
 FRONTEND STACK:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui&theme=light" />
   </a>
 </p>
 
@@ -25,7 +26,7 @@ BACKEND STACK:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" />
   </a>
 </p>
 
