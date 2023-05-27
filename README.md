@@ -7,7 +7,7 @@ https://ehtashamportfolio.netlify.app/
 
 So now if you are reading it lets have a look on my tech stack.
 
-<h2>PROGRAMMING LANGUAGE:</h2>
+<h4>PROGRAMMING LANGUAGE:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,14 +15,14 @@ So now if you are reading it lets have a look on my tech stack.
   </a>
 </p>
 
-FRONTEND STACK:
+<h4>FRONTEND STACK</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui&theme=light" />
   </a>
 </p>
 
-BACKEND STACK:
+<h4>BACKEND STACK:</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
