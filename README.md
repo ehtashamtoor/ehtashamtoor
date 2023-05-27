@@ -5,17 +5,20 @@ This is Ehtasham Toor, A MERN STACK DEVELOPER.
 Don't got time to read all this stuff. 😒 No issue have a look on my live portfolio here:
 https://ehtashamportfolio.netlify.app/
 
-So now if you are reading it lets have a look on my tech stack.
+I have been working as a MERN stack developer for 1.5 years, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express, Next.js, and TypeScript etc.
+<p align="center">I am a </p>
 
-<h4>PROGRAMMING LANGUAGES:</h2>
+<h2>My Tech Stack</h2>
+
+<h4>PROGRAMMING LANGUAGES:</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts&theme=light" />
   </a>
 </p>
 
-<h4>FRONTEND STACK</h2>
+<h4>FRONTEND STACK</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui&theme=light" />
