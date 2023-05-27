@@ -8,7 +8,7 @@ https://ehtashamportfolio.netlify.app/
 So now if you are reading it lets have a look on my tech stack.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css3,javascript,react,Nodejs,Express,MongoDB,Redux,Reduxtoolkit" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,node,express,mongoDB,redux,reduxtoolkit" />
   </a>
 </p>
 
