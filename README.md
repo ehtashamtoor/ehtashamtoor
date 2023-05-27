@@ -1,6 +1,6 @@
 Hey A Warm Welcome!❤️
 
-This is Ehtasham Toor, A MERN STACK DEVELOPER.
+This is <h3>Ehtasham Toor</h3>, <h5>A MERN STACK DEVELOPER.</h5>
 
 Don't got time to read all this stuff. 😒 No issue have a look on my live portfolio here:
 https://ehtashamportfolio.netlify.app/
