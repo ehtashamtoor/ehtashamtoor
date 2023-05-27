@@ -7,7 +7,7 @@ https://ehtashamportfolio.netlify.app/
 
 So now if you are reading it lets have a look on my tech stack.
 
-<h4>PROGRAMMING LANGUAGE:</h2>
+<h4>PROGRAMMING LANGUAGES:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
