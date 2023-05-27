@@ -5,8 +5,7 @@ This is Ehtasham Toor, A MERN STACK DEVELOPER.
 Don't got time to read all this stuff. 😒 No issue have a look on my live portfolio here:
 https://ehtashamportfolio.netlify.app/
 
-I have been working as a MERN stack developer for 1.5 years, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express, Next.js, and TypeScript etc.
-<p align="center">I am a </p>
+<p align="center">I have been working as a MERN stack developer for 1.5 years, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express, Next.js, and TypeScript etc.</p>
 
 <h2>My Tech Stack</h2>
 
