@@ -32,5 +32,6 @@ https://ehtashamportfolio.netlify.app/
   </a>
 </p>
 
-<h4>Want to Connect?</h4>
+<h2>Want to Connect?</h2>
+
 EMAIL: ehtashamtoor50@gmail.com
