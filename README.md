@@ -32,6 +32,14 @@ https://ehtashamportfolio.netlify.app/
   </a>
 </p>
 
+<h4>FRAMEWORKS STACK:</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" />
+  </a>
+</p>
+
 <h2>Want to Connect?</h2>
 
 EMAIL: ehtashamtoor50@gmail.com
