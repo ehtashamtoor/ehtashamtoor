@@ -36,7 +36,7 @@ https://ehtashamportfolio.netlify.app/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs&theme=light" />
   </a>
 </p>
 
