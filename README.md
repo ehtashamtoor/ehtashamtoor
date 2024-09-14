@@ -13,14 +13,14 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,py,&theme=light" />
   </a>
 </p>
 
 <h4>FRONTEND STACK</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui,shadcn&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui,figma,redux,&theme=light" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,&theme=light" />
   </a>
 </p>
 
@@ -37,6 +37,22 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,nestjs&theme=light" />
+  </a>
+</p>
+
+<h4>OTHERs</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,jest,&theme=light" />
+  </a>
+</p>
+
+<h4>Working with APIs</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,&theme=light" />
   </a>
 </p>
 
