@@ -1,11 +1,11 @@
 Hey A Warm Welcome!❤️
 
-This is Ehtasham Toor, A MERN STACK DEVELOPER.
+This is Ehtasham Toor, A Software Engineer from PAKISTAN.
 
 Don't got time to read all this stuff. 😒 No issue have a look on my live portfolio here:
 [https://ehtashamportfolio.netlify.app/](https://ehtasham-portfolio.vercel.app/)
 
-<p align="center">I have been working as a MERN stack developer for 1.5 years, gaining hands-on experience in various skills such as HTML, CSS, JavaScript, React, Node.js, Express, Next.js, and TypeScript etc.</p>
+<p align="center">I have a great experience as a MERN Stack Developer. Working efficiently with Mongodb, Nodejs, Nestjs, Express, React, Nextjs, TailwindCSS, MaterialUI, Bootstrap etc. </p>
 
 <h2>My Tech Stack</h2>
 
@@ -40,6 +40,6 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
   </a>
 </p>
 
-<h2>Want to Connect?</h2>
+<h2>Want to Connect with me?</h2>
 
 EMAIL: ehtashamtoor50@gmail.com
