@@ -20,7 +20,7 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
 <h4>FRONTEND STACK</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui,shadcn&theme=light" />
   </a>
 </p>
 
