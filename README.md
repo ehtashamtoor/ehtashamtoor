@@ -2,10 +2,10 @@ Hey A Warm Welcome!❤️
 
 This is Ehtasham Toor, A Software Engineer from PAKISTAN.
 
-Don't got time to read all this stuff. 😒 No issue have a look on my live portfolio here:<br/>
-[https://ehtashamportfolio.netlify.app/](https://ehtasham-portfolio.vercel.app/)
+<p align="center">I have a great experience as a MERN Stack Developer and Agentic AI Developer.</p>
 
-<p align="center">I have a great experience as a MERN Stack Developer. Working efficiently with Mongodb, Nodejs, Nestjs, Express, React, Nextjs, TailwindCSS, MaterialUI, Bootstrap etc. </p>
+You can hop onto my live portfolio below:
+[My Portfolio](https://ehtasham-portfolio.vercel.app/)
 
 <h2>My Tech Stack</h2>
 
@@ -59,3 +59,4 @@ Don't got time to read all this stuff. 😒 No issue have a look on my live port
 <h2>Want to Connect with me?</h2>
 
 EMAIL: ehtashamtoor50@gmail.com
+LINKEDIN PROFILE: [Click here]( www.linkedin.com/in/ehtasham-toor-3865b317b)
