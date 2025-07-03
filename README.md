@@ -59,4 +59,4 @@ You can hop onto my live portfolio below:
 <h2>Want to Connect with me?</h2>
 
 EMAIL: ehtashamtoor50@gmail.com
-LINKEDIN PROFILE: [Click here]( www.linkedin.com/in/ehtasham-toor-3865b317b)
+LINKEDIN PROFILE: <a href="www.linkedin.com/in/ehtasham-toor-3865b317b">See Profile</a>
