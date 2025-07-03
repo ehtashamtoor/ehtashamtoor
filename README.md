@@ -2,7 +2,7 @@ Hey A Warm Welcome!❤️
 
 This is Ehtasham Toor, A Software Engineer from PAKISTAN.
 
-<p align="center">I have a great experience as a MERN Stack Developer and Agentic AI Developer.</p>
+<p align="center">I have a 2+ years experience as a MERN Stack Developer and Agentic AI Developer.</p>
 
 You can hop onto my live portfolio below:
 [My Portfolio](https://ehtasham-portfolio.vercel.app/)
