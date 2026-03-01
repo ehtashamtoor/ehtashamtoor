@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & AI Agent Builder** — I ship products 10x faster with coding agents.
 
-I build production-grade web applications and intelligent AI agent systems. Currently building AI-powered agent platforms at [Texagon](https://texagon.io).
+I build production-grade web applications and intelligent AI agent systems.
 
 ## What I Build
 
